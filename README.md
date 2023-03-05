@@ -51,7 +51,8 @@ ciclistas.
 	 <img width="500" alt="Captura" src="https://user-images.githubusercontent.com/74938678/222988300-36471120-46d2-41c7-8a82-f0df9ba49c90.PNG">
 	 
 - **Sistema de administración desplegado**
-	Para el módulo  se ha creado un sistema web en donde pueda agregar o eliminar usuarios como se ha indicado previamente para facilitar el uso del sistema se lo ha desplgado en la plataforma Vercel. 
+
+Para el módulo  se ha creado un sistema web en donde pueda agregar o eliminar usuarios como se ha indicado previamente para facilitar el uso del sistema se lo ha desplgado en la plataforma Vercel. 
 	
 	Para lo cual se tiene una serie de pasos : 
 	

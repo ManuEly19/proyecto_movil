@@ -56,20 +56,15 @@ Para el módulo  se ha creado un sistema web en donde pueda agregar o eliminar u
 	
 Para lo cual se tiene una serie de pasos : 
 	
-1 . Creación de un repositorio en Github 
+1 . Creacion de un  proyecto en Vercel 
+Se ha creado un proyecto en Vercel y se procede a subir como muestra la imagen.
+
+  <img width="500" alt="Captura" src="https://user-images.githubusercontent.com/74938678/222986469-b2fa9721-4533-4ea4-abe3-9e52c72bd818.PNG">
 	
-Se ha creado un repositorio en Github como se observa en la siguiente imagen. 
-	 
-   <img width="500" alt="Captura" src="https://user-images.githubusercontent.com/74938678/222986469-b2fa9721-4533-4ea4-abe3-9e52c72bd818.PNG">
-	 
-2 . Creacion de un  proyecto en Vercel 
-	
-Se ha creado un repositorio en Github como se observa en la siguiente imagen. 
-	
-	  
 3 . Despliegue 
 	
 `<Enlace >` : <https://proyecto-movil.vercel.app/>
+
 ---
 ### 🧍 Módulo Ciclista 
 ---

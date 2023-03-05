@@ -54,23 +54,22 @@ ciclistas.
 
 Para el módulo  se ha creado un sistema web en donde pueda agregar o eliminar usuarios como se ha indicado previamente para facilitar el uso del sistema se lo ha desplgado en la plataforma Vercel. 
 	
-	Para lo cual se tiene una serie de pasos : 
+Para lo cual se tiene una serie de pasos : 
 	
-	1 . Creación de un repositorio en Github 
+1 . Creación de un repositorio en Github 
 	
-	 Se ha creado un repositorio en Github como se observa en la siguiente imagen. 
+Se ha creado un repositorio en Github como se observa en la siguiente imagen. 
 	 
    <img width="500" alt="Captura" src="https://user-images.githubusercontent.com/74938678/222986469-b2fa9721-4533-4ea4-abe3-9e52c72bd818.PNG">
 	 
-	2 . Creacion de un  proyecto en Vercel 
+2 . Creacion de un  proyecto en Vercel 
 	
-	Se ha creado un repositorio en Github como se observa en la siguiente imagen. 
+Se ha creado un repositorio en Github como se observa en la siguiente imagen. 
 	
-	 
-	 
-	3 . Despliegue 
+	  
+3 . Despliegue 
 	
-	`<Enlace >` : <https://proyecto-movil.vercel.app/>
+`<Enlace >` : <https://proyecto-movil.vercel.app/>
 ---
 ### 🧍 Módulo Ciclista 
 ---

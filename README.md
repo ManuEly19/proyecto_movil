@@ -58,8 +58,8 @@ ciclistas.
 	1 . Creacion de un  proyecto en Vercel 
 	Se ha creado un proyecto en Vercel y se procede a subir como muestra la imagen.
 
-	  <img width="500" alt="Captura" src="https://user-images.githubusercontent.com/74938678/222986469-b2fa9721-4533-4ea4-abe3-9e52c72bd818.PNG">
-
+<img width="500" alt="Captura" src="https://user-images.githubusercontent.com/74938678/222986469-b2fa9721-4533-4ea4-abe3-9e52c72bd818.PNG">
+	  
 	2 . Despliegue 
 
 	`<Enlace >` : <https://proyecto-movil.vercel.app/>

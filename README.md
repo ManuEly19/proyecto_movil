@@ -20,7 +20,6 @@ ciclistas.
 	 
 	 <img width="500" alt="Captura" src="https://user-images.githubusercontent.com/74938678/222988004-2fd1b04f-94a7-4a88-9d40-08541c7a557d.PNG">
 
-
 - **Sistema de administración para mostrar,  agregar y  eliminar usuarios.**
 
 	**Mostrar**

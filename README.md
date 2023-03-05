@@ -60,9 +60,9 @@ ciclistas.
 
 <img width="500" alt="Captura" src="https://user-images.githubusercontent.com/74938678/222986469-b2fa9721-4533-4ea4-abe3-9e52c72bd818.PNG">
 	  
-	2 . Despliegue 
+	2. Despliegue 
 
-	`<Enlace >` : <https://proyecto-movil.vercel.app/>
+	`<Enlace >`: <https://proyecto-movil.vercel.app/>
 
 ---
 ### 🧍 Módulo Ciclista 

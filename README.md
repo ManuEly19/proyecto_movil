@@ -51,18 +51,18 @@ ciclistas.
 	 
 - **Sistema de administración desplegado**
 
-Para el módulo  se ha creado un sistema web en donde pueda agregar o eliminar usuarios como se ha indicado previamente para facilitar el uso del sistema se lo ha desplgado en la plataforma Vercel. 
-	
-Para lo cual se tiene una serie de pasos : 
-	
-1 . Creacion de un  proyecto en Vercel 
-Se ha creado un proyecto en Vercel y se procede a subir como muestra la imagen.
+	Para el módulo  se ha creado un sistema web en donde pueda agregar o eliminar usuarios como se ha indicado previamente para facilitar el uso del sistema se 	    lo ha desplgado en la plataforma Vercel. 
 
-  <img width="500" alt="Captura" src="https://user-images.githubusercontent.com/74938678/222986469-b2fa9721-4533-4ea4-abe3-9e52c72bd818.PNG">
-	
-3 . Despliegue 
-	
-`<Enlace >` : <https://proyecto-movil.vercel.app/>
+	Para lo cual se tiene una serie de pasos : 
+
+	1 . Creacion de un  proyecto en Vercel 
+	Se ha creado un proyecto en Vercel y se procede a subir como muestra la imagen.
+
+	  <img width="500" alt="Captura" src="https://user-images.githubusercontent.com/74938678/222986469-b2fa9721-4533-4ea4-abe3-9e52c72bd818.PNG">
+
+	2 . Despliegue 
+
+	`<Enlace >` : <https://proyecto-movil.vercel.app/>
 
 ---
 ### 🧍 Módulo Ciclista 

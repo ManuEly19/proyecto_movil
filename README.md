@@ -65,13 +65,6 @@ ciclistas.
 
 `<Enlace >`: <https://proyecto-movil.vercel.app/>
 
----
-### 🧍 Módulo Ciclista 
----
-- **Geolocalización en tiempo real**
-	 - Código 
-	 
-	 - Implementación 
 -------------
 ### 📚 Más información 
 -------------

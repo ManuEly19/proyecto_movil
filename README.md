@@ -61,9 +61,9 @@ ciclistas.
 <img width="500" alt="Captura" src="https://user-images.githubusercontent.com/74938678/222986469-b2fa9721-4533-4ea4-abe3-9e52c72bd818.PNG">
 
 	  
-	2. Despliegue 
+2. Despliegue
 
-	`<Enlace >`: <https://proyecto-movil.vercel.app/>
+`<Enlace >`: <https://proyecto-movil.vercel.app/>
 
 ---
 ### 🧍 Módulo Ciclista 
@@ -77,11 +77,11 @@ ciclistas.
 -------------
 - **Video de funcionamiento**
 
-`<Enlace>` : <https://github.com>
+`<Enlace>` : <https://epnecuador-my.sharepoint.com/personal/jhoana_aucancela_epn_edu_ec/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjhoana%5Faucancela%5Fepn%5Fedu%5Fec%2FDocuments%2FVideo%20%2D%20Proyecto%20DM&ga=1>
 
 - **Publicación en una tienda de aplicaciones**
 
-`<Enlace>` : <https://github.com>
+`<Enlace>` : <https://es.aptoide.com/store/ciclistadm>
 
 - **Herramientas utilizadas**
 
